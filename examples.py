@@ -23,4 +23,8 @@ elif age > 23:
 else:
     print('Ты младше меня')
 
+# Преобразование в bool
+coins = 5
+if coins:
+    print('У вас' + coins + 'монет')
     
